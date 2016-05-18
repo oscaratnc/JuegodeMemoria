@@ -22,6 +22,7 @@
 		55C0067F1CECF19B00CAF9B3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		55C006821CECF19C00CAF9B3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		55C006841CECF19D00CAF9B3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		55C0068A1CECF34800CAF9B3 /* JuegodeMemoria.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = JuegodeMemoria.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +39,7 @@
 		55C0066C1CECF19600CAF9B3 = {
 			isa = PBXGroup;
 			children = (
+				55C0068A1CECF34800CAF9B3 /* JuegodeMemoria.playground */,
 				55C006771CECF19800CAF9B3 /* Juegode Memoria */,
 				55C006761CECF19800CAF9B3 /* Products */,
 			);
