@@ -17,16 +17,16 @@ var num = 0...100
 
 for i in num{
     if  i % 5==0{ //revisa si es divisible entre 5 con el residuo
-        print (" \(i)  Bingo!!!")
+        print (" #\(i)  Bingo!!!")
     }
     else if i % 2==0{ //al igual que el divisible entre 5 si no tiene residuo es par
-        print (" \(i) par!!!")
+        print ("# \(i) par!!!")
     }
     else{ //cualquiera que no entra en el if anterior es impar
-        print (" \(i) impar!!!")
+        print ("#\(i) impar!!!")
     }
     if i >= 30 && i <= 40{ //revisa el rango
-        print (" \(i) Viva Swift!!!")
+        print ("# \(i) Viva Swift!!!")
     }
     
 }
